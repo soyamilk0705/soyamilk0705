@@ -17,15 +17,15 @@ Here are some ideas to get you started:
 
 
 # Hi there, I'm Heesoo! 👋
-## About Me
-
+## 🌱 About Me
+<!--
 - 🌱 I’m currently learning **[Your Current Learning Focus, e.g., React, Node.js, etc.]**
 - 👯 I’m looking to collaborate on **[Project Types or Specific Projects]**
 - 🤔 I’m looking for help with **[Areas You Need Help With]**
 - 💬 Ask me about **[Your Expertise or Interests]**
 - 📫 How to reach me: **[Your Contact Information, e.g., email@example.com]**
 - ⚡ Fun fact: **[A Fun Fact About You]**
-
+-->
 
 
 <a href="https://github.com/soyamilk0705">
